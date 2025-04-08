@@ -10,7 +10,7 @@ Para isso, utilizei **Streamlit** para criar uma interface interativa que exibe 
 2. Classificação dos sentimentos com base em análise de texto.
 3. Criação de gráficos interativos para visualizar a distribuição dos sentimentos e identificar padrões.
 
-O resultado final foi um aplicativo interativo construído em **Streamlit**, onde os usuários podem visualizar os sentimentos relacionados a diferentes companhias aéreas. A ferramenta permite aos analistas obter insights rápidos sobre a percepção do público nas redes sociais, ajudando as empresas a monitorar sua imagem e melhorar sua estratégia de marketing e atendimento.
+O resultado final foi um aplicativo interativo https://us-airline-sentiment.streamlit.app/ construído em **Streamlit**, onde os usuários podem visualizar os sentimentos relacionados a diferentes companhias aéreas. A ferramenta permite aos analistas obter insights rápidos sobre a percepção do público nas redes sociais, ajudando as empresas a monitorar sua imagem e melhorar sua estratégia de marketing e atendimento.
 
 ### Tecnologias Utilizadas
 - **Streamlit**: Para criação da interface interativa.
