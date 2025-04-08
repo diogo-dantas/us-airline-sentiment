@@ -1,0 +1,28 @@
+# Ignorar arquivos de compilação e binários
+*.pyc
+*.pyo
+*.pyd
+__pycache__/
+
+# Ignorar diretórios de ambientes virtuais
+venv/
+env/
+.env/
+
+# Ignorar arquivos de configuração do IDE (exemplos para VSCode e PyCharm)
+.vscode/
+.idea/
+
+# Ignorar arquivos de log
+*.log
+
+# Ignorar arquivos de configuração do sistema operacional
+.DS_Store    # MacOS
+Thumbs.db    # Windows
+
+# Ignorar arquivos de dependências (exemplo para Node.js)
+node_modules/
+
+# Ignorar arquivos de backup
+*.bak
+*.swp
